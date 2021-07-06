@@ -24,6 +24,8 @@ You're sections headers will be used to reference location of destination.
 
 - HTML
 - CSS
+- Javascript
+- React JS
 
 [Back To The Top](#read-me-template)
 
