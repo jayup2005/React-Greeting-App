@@ -1,8 +1,5 @@
 # React-Greeting-App
 
-# Netflix
-
-# Read Me Template
 
 ![Project Image](https://i.ibb.co/m0cPD9m/react.png)
 
